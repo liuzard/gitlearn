@@ -10,3 +10,4 @@ The merge of braches need to be solve.
 The merge method of braches consists of the fast forward and no fast forward.
 The bug of master branch is fixed
 This is a stash test of bug fix.
+This is a multi-people test.
