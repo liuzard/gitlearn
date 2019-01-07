@@ -12,3 +12,4 @@ The bug of master branch is fixed
 This is a stash test of bug fix.
 Git is fit to multi-people developing.
 Git GUI test.
+Git GUI test of changing multi-file.
