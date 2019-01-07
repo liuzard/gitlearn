@@ -6,4 +6,4 @@ Git track changes of files.
 Github is the server of remote repository.
 Creating a new branch is quick.
 Merge the braches is also very quick and simple.
-The merge of brancher need to be fixed.
+The merge of braches need to be solve.
