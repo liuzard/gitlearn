@@ -5,4 +5,4 @@ Git is a software to supervise a project.
 Git track changes of files.
 Github is the server of remote repository.
 Creating a new branch is quick.
-Merge the braches is also very quick & simple.
+Merge the braches is also very quick and simple.
